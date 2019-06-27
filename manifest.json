@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/about_services01.png": "static/about_services01-1f131816765a4eaecf5ec16dcae7a14b.png",
+  "static/about_services02.png": "static/about_services02-cdd6d36a34821d61749fb89ef248bc10.png",
+  "static/about_services03.png": "static/about_services03-1e889e293bba17524f42a49abfe5dc92.png",
+  "static/about_services04.png": "static/about_services04-9cfd7e56a46d67c6c528381144836a4e.png",
+  "static/works-bg-4.jpg": "static/works-bg-4-a81cab16e560f68d3bcfca8a9de06f86.jpg",
+  "static/works-logo.png": "static/works-logo-5fd33aa0d6c2a464041ce9a3ba90cc42.png"
+}

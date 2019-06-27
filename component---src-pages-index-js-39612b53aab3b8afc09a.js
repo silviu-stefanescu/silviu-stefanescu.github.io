@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{154:function(n,t,e){"use strict";e.r(t);var o=e(0),a=e.n(o);t.default=function(){return a.a.createElement("div",null,"Gatsby Portfolio!")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-39612b53aab3b8afc09a.js.map
