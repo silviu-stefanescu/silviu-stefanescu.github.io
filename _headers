@@ -158,6 +158,13 @@
   Link: </1-c2d0c34e44f2575fd574.js>; rel=preload; as=script
   Link: </2-fe4f271a463584f95951.js>; rel=preload; as=script
   Link: </component---src-templates-project-jsx-7b4c12b18b5c78967957.js>; rel=preload; as=script
+/cabigate-passenger
+  Link: </webpack-runtime-fb62ef58dd9b0f897c59.js>; rel=preload; as=script
+  Link: </app-e54831f10886e260e7e3.js>; rel=preload; as=script
+  Link: </styles-3fa8184b7d229458c26a.js>; rel=preload; as=script
+  Link: </1-c2d0c34e44f2575fd574.js>; rel=preload; as=script
+  Link: </2-fe4f271a463584f95951.js>; rel=preload; as=script
+  Link: </component---src-templates-project-jsx-7b4c12b18b5c78967957.js>; rel=preload; as=script
 /about
   Link: </webpack-runtime-fb62ef58dd9b0f897c59.js>; rel=preload; as=script
   Link: </app-e54831f10886e260e7e3.js>; rel=preload; as=script
